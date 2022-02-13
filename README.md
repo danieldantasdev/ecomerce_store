@@ -1,15 +1,15 @@
-# E-comerce-dio
+# E-comerce-store
 
 ## 💻 Projeto
 
-E-comerce-dio foi uma aplicação prática do curso "
+E-comerce-store foi uma aplicação prática do curso "
 Integrando um Backend em Node.js com um Frontend em react para um E-comerce" ofertado pela [DIO](https://digitalinnovation.one/), evento esse cujo o qual participei. O mesmo é responsivo para as diferentes resoluções.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 📢 Visite o site
 
-[E-comerce-dio](https://lobinhodev.github.io/E-comerce-dio/).
+[E-comerce-dio](https://lobinhodev.github.io/E-comerce-store/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -26,12 +26,12 @@ Integrando um Backend em Node.js com um Frontend em react para um E-comerce" ofe
 
 ### Comandos
 
-| Comando                                                 | O que faz?                 | Observação               |
-| ------------------------------------------------------- | -------------------------- | ------------------------ |
-| `git clone https://lobinhodev.github.io/E-comerce-dio/` | Clona meu repositório      | **Execute no terminal!** |
-| `cd Dioshopping-main` ou `cd Api-dioshopping-master`    | Entra no diretório         | **Execute no terminal!** |
-| `npm install` ou `yarn install`                         | Instala todas dependências | **Execute no terminal!** |
-| `npm start` ou `yarn start`                             | Inicia o projeto           | **Execute no terminal!** |
+| Comando                                                       | O que faz?                 | Observação               |
+| ------------------------------------------------------------- | -------------------------- | ------------------------ |
+| `git clone https://github.com/lobinhodev/E-comerce-store.git` | Clona meu repositório      | **Execute no terminal!** |
+| `cd Dioshopping-main` ou `cd Api-dioshopping-master`          | Entra no diretório         | **Execute no terminal!** |
+| `npm install` ou `yarn install`                               | Instala todas dependências | **Execute no terminal!** |
+| `npm start` ou `yarn start`                                   | Inicia o projeto           | **Execute no terminal!** |
 
 ### Desktop
 
